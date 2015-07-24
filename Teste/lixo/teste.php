@@ -7,4 +7,4 @@
  */
 
 ?>
-Alteração ficheiro
+Alteração ficheiro 2
